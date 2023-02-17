@@ -1,0 +1,9 @@
+font_family Hack
+font_size 13.0
+
+
+
+# BEGIN_KITTY_THEME
+# Brogrammer
+include current-theme.conf
+# END_KITTY_THEME
